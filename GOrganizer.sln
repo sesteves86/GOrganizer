@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOrganizer", "GPRO Organizer\GOrganizer.csproj", "{E6E17610-516D-4E50-B3BD-71D82301389F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOrganizer", "GOrganizer\GOrganizer.csproj", "{E6E17610-516D-4E50-B3BD-71D82301389F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOrganizer Test", "Gpro Organizer Test\GOrganizer Test.csproj", "{24D76B30-38BC-4919-823F-5E126012BC32}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOrganizer Test", "GOrganizer Test\GOrganizer Test.csproj", "{24D76B30-38BC-4919-823F-5E126012BC32}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

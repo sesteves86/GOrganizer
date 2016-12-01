@@ -65,7 +65,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\GPRO Organizer\GOrganizer.csproj">
+    <ProjectReference Include="..\GOrganizer\GOrganizer.csproj">
       <Project>{e6e17610-516d-4e50-b3bd-71d82301389f}</Project>
       <Name>GOrganizer</Name>
     </ProjectReference>

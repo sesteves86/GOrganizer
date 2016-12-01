@@ -10,3 +10,15 @@ C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GPRO Organi
 C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GPRO Organizer\obj\Debug\GOrganizer.Properties.Resources.resources
 C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GPRO Organizer\obj\Debug\GOrganizer.exe
 C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GPRO Organizer\obj\Debug\GOrganizer.pdb
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GOrganizer\bin\Debug\GOrganizer.exe.config
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GOrganizer\obj\Debug\GOrganizer.exe
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GOrganizer\obj\Debug\GOrganizer.pdb
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GOrganizer\bin\Debug\DBGOrganizer.mdf
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GOrganizer\bin\Debug\DBGOrganizer_log.ldf
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GOrganizer\bin\Debug\GOrganizer.exe
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GOrganizer\bin\Debug\GOrganizer.pdb
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GOrganizer\obj\Debug\GOrganizer.csprojResolveAssemblyReference.cache
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GOrganizer\obj\Debug\GOrganizer.Form1.resources
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GOrganizer\obj\Debug\GOrganizer.Processing.resources
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GOrganizer\obj\Debug\GOrganizer.Properties.Resources.resources
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GOrganizer\obj\Debug\GOrganizer.csproj.GenerateResource.Cache
