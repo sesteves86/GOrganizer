@@ -1,0 +1,12 @@
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GPRO Organizer\bin\Debug\DBGOrganizer.mdf
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GPRO Organizer\bin\Debug\DBGOrganizer_log.ldf
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GPRO Organizer\obj\Debug\GOrganizer.csprojResolveAssemblyReference.cache
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GPRO Organizer\obj\Debug\GOrganizer.Form1.resources
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GPRO Organizer\obj\Debug\GOrganizer.Processing.resources
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GPRO Organizer\obj\Debug\GOrganizer.csproj.GenerateResource.Cache
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GPRO Organizer\bin\Debug\GOrganizer.exe.config
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GPRO Organizer\bin\Debug\GOrganizer.exe
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GPRO Organizer\bin\Debug\GOrganizer.pdb
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GPRO Organizer\obj\Debug\GOrganizer.Properties.Resources.resources
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GPRO Organizer\obj\Debug\GOrganizer.exe
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\GPRO Organizer\obj\Debug\GOrganizer.pdb

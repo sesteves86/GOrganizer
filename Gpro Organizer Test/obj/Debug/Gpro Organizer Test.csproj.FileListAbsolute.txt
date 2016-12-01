@@ -1,0 +1,11 @@
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\Gpro Organizer Test\obj\Debug\Gpro Organizer Test.csprojResolveAssemblyReference.cache
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\Gpro Organizer Test\bin\Debug\DBGpro.mdf
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\Gpro Organizer Test\bin\Debug\DBGpro_log.ldf
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\Gpro Organizer Test\bin\Debug\Gpro Organizer Test.dll
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\Gpro Organizer Test\bin\Debug\Gpro Organizer Test.pdb
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\Gpro Organizer Test\bin\Debug\GPRO Organizer.exe
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\Gpro Organizer Test\bin\Debug\nunit.framework.dll
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\Gpro Organizer Test\bin\Debug\GPRO Organizer.pdb
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\Gpro Organizer Test\bin\Debug\nunit.framework.xml
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\Gpro Organizer Test\obj\Debug\Gpro Organizer Test.dll
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\GPRO Organizer\Gpro Organizer Test\obj\Debug\Gpro Organizer Test.pdb
